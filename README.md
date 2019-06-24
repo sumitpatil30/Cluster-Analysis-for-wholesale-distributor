@@ -20,3 +20,25 @@ Cluster B : Speciality stores / Speciality retailers
 - There is no scope of cross-selling of Brands in this cluster. 
 - To increase sales, a viable option is to give bulk discount on Brands.
 - Recommendation : Give bulk discount on Brands for retailers in this cluster.
+
+Cluster C : Retailers buying complementary goods
+- The retailers in this cluster buy 2 brand out of available 12 brands.
+- This means these retailers are buying complementary goods.
+- For example - Let's say Brand4 is 'Tea' and Brand5 is 'Britannia Biscuits'.Then, a retailer belonging to cluster C will buy both these   Brands as comsumption of tea and biscuits generally goes hand-in-hand.
+- To increase sales in this cluster , a viable option is to bundle Brands together and give discounts on bundeled Brands rather than on a single Brand.
+- Recommendation : Bundle together brands and give discounts for entire bundle. 
+
+Cluster D : Supermarket retailers
+- The retailers in this cluster buy all combinations of brands but the number of such retailers is very less.
+- This means these retailers are supermarkets.
+- To increase sales in this cluster , a viable option is to give bulk discounts. 
+- Also keep them informed about any new brands that might be available for sale in near future.
+- Recommendation : Give bulk discount on Brands for retailers in this cluster.
+
+Cluster E : General Store / Kirana Shops
+- Each retailers in this cluster buy either 3 or 4 brands together.
+- This means these retailers are general purpose shops ,i.e., kirana shops.
+- For an established kirana shop, storing more quantity of particular Brand is always a challenge. 
+- But selling them different Brands will be more efficient. Even selling them more than 4 Brands can be taken up as a challenge.
+- Recommendation : Push for selling more then 4 brands.
+
