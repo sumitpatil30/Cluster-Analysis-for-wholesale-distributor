@@ -40,5 +40,5 @@ Cluster E : General Store / Kirana Shops
 - This means these retailers are general purpose shops ,i.e., kirana shops.
 - For an established kirana shop, storing more quantity of particular Brand is always a challenge. 
 - But selling them different Brands will be more efficient. Even selling them more than 4 Brands can be taken up as a challenge.
-- Recommendation : Push for selling more then 4 brands.
+- Recommendation : Push for selling more than 4 brands.
 
