@@ -24,7 +24,7 @@ Cluster B : Speciality stores / Speciality retailers
 Cluster C : Retailers buying complementary goods
 - The retailers in this cluster buy 2 brand out of available 12 brands.
 - This means these retailers are buying complementary goods.
-- For example - Let's say Brand4 is 'Tea' and Brand5 is 'Britannia Biscuits'.Then, a retailer belonging to cluster C will buy both these   Brands as comsumption of tea and biscuits generally goes hand-in-hand.
+- For example - Let's say Brand4 is 'Tea' and Brand5 is 'Britannia Biscuits'.Then, a retailer belonging to cluster C will buy both these   Brands as consumption of tea and biscuits generally goes hand-in-hand.
 - To increase sales in this cluster , a viable option is to bundle Brands together and give discounts on bundeled Brands rather than on a single Brand.
 - Recommendation : Bundle together brands and give discounts for entire bundle. 
 
